@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @rmulon17
+- 👋 ’m Rômulo Neto
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning how to become a full stack developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning how to become a front end developer
+
 
 <!---
 rmulon17/rmulon17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
