@@ -1,5 +1,5 @@
-- 👋 ’m Rômulo Neto
-- 👀 I’m interested in programming
+- 👋 I’m Rômulo Neto
+
 - 🌱 I’m currently learning front end development
 
 
