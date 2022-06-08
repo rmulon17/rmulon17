@@ -1,6 +1,6 @@
 - 👋 ’m Rômulo Neto
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning how to become a front end developer
+- 🌱 I’m currently learning front end development
 
 
 <!---
